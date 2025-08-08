@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Akash Chandru C T <img src="https://raw.githubusercontent.com/sijin-raj/sijin-resume01/main/assets/images/Hi.gif" width="30"/></h1>
 
-<!--
-**Akashchandru613/Akashchandru613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>🎓 CS Graduate Student @ Northeastern | 🤖 AI Enthusiast | 💡 Builder in Progress</b><br/>
+  I’m exploring the world of AI while building smart, scalable systems from front to back.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/akash-chandru-185692217/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://www.instagram.com/akash.chandru_/profilecard/?igsh=MXFzcjBkZ2N0Mnpwcw=="><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
+  <a href="https://github.com/Akashchandru613"><img src="https://skillicons.dev/icons?i=github" height="30" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Graduate Student** in Computer Science at **Northeastern University**
+- 🧠 Passionate about **AI**, **machine learning**, and intelligent systems
+- 🛠 Building full-stack applications and experimenting with AI tools
+- 🌱 Actively learning system design, algorithms, and scalable infra
+- ✨ Interested in contributing to impactful, real-world projects
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,laravel,firebase,tailwind,figma,mysql,mongodb,docker,aws,vscode,linux" />
+</p>
+
+- **Frontend**: React.js, Next.js, Tailwind CSS, TypeScript  
+- **Backend**: Node.js, Laravel, Firebase, Express  
+- **Mobile**: React Native, Flutter  
+- **DevOps**: Docker, Vercel, GitHub Actions  
+- **Database**: MySQL, MongoDB, Firestore  
+- **Design & Planning**: Figma, Notion  
+- **Infra**: AWS (EC2, S3), Firebase Hosting  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashchandru613&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akashchandru613&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashchandru613&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+
+🚀 Got a cool idea? Building something in AI or tech?  
+Let’s chat on [LinkedIn](https://www.linkedin.com/in/akash-chandru-185692217/) or follow me on [Instagram](https://www.instagram.com/akash.chandru_/profilecard/?igsh=MXFzcjBkZ2N0Mnpwcw==)
+
+---
+
+<p align="center">Thanks for stopping by! 🙌</p>
