@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Akash Chandru C T <img src="https://raw.githubusercontent.com/sijin-raj/sijin-resume01/main/assets/images/Hi.gif" width="30"/></h1>
+<h1 align="center">Hi, I'm Akash Chandru C T 👋</h1>
 
 <p align="center">
   <b>🎓 CS Graduate Student @ Northeastern | 🤖 AI Enthusiast | 💡 Builder in Progress</b><br/>
